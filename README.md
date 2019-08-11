@@ -3,9 +3,7 @@
 Reminds me of what is fundamental and universal, using my
 favorite medium: randomness.
 
-```
-_the ocean memorizes a light stone_
-```
+> _the ocean memorizes a light stone_
 
 ## How
 

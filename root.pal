@@ -1,0 +1,126 @@
+|root
+[sentence]
+
+|sentence
+[nounPhrase] [verbPhrase]
+
+|nounPhrase
+5@[noun.article]
+5@[adjective.article] [noun]
+5@the [noun]
+5@the [adjective] [noun]
+the [massNoun]
+the [adjective] [massNoun]
+
+|noun
+person
+man
+woman
+child
+boy
+girl
+snake
+spider
+dog
+knife
+tree
+star
+sun
+moon
+mountain
+song
+dance
+horse
+night
+day
+fruit
+river
+ocean
+lake
+silence
+stillness
+clamor
+din
+dream
+ship
+house
+shadow
+stone
+road
+bowl
+cup
+pot
+bow
+arrow
+weapon
+family
+bridge
+game
+head
+eye
+hand
+leg
+ear
+heart
+string
+
+|massNoun
+meat
+snow
+water
+
+|verbPhrase
+sits
+walks
+runs
+eats
+drinks
+sleeps
+sings
+dances
+laughs
+cries
+dies
+is born
+appears
+is [adjective]
+vanishes
+wakes
+speaks
+talks
+makes [nounPhrase]
+sees [nounPhrase]
+carries [nounPhrase]
+bears [nounPhrase]
+remembers [nounPhrase]
+memorizes [nounPhrase]
+gives [nounPhrase] to [nounPhrase]
+yields [nounPhrase]
+touches [nounPhrase]
+awakens [nounPhrase]
+kisses [nounPhrase]
+embraces [nounPhrase]
+speaks with [nounPhrase]
+
+|adjective
+whole
+broken
+small
+great
+rotten
+clean
+dirty
+straight
+crooked
+dark
+black
+light
+bright
+heavy
+dim
+white
+red
+ancient
+young
+living
+dead
